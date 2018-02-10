@@ -7,17 +7,21 @@ public class PlungerScript : MonoBehaviour {
 
     public float maxPower = 100f;
     public Slider powerSlider;
+    public AudioClip chargeSound;
+    public AudioClip launchSound;
 
     private float power;
     private List<Rigidbody> ballList;
     private bool ballReady;
-
+    private AudioSource audioSource;
+    private bool audioPlayed = false;
 
 	// Use this for initialization
 	void Start () {
         powerSlider.minValue = 0;
         powerSlider.maxValue = maxPower;
         ballList = new List<Rigidbody>();
+        audioSource = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -37,13 +41,22 @@ public class PlungerScript : MonoBehaviour {
             ballReady = true;
             if (Input.GetKey(KeyCode.Space))
             {
+                if (!audioPlayed)
+                {
+                    audioSource.clip = chargeSound;
+                    audioSource.Play();
+                    audioPlayed = true;
+                }
                 if (power < powerSlider.maxValue)
                 {
-                    power += 50 * Time.deltaTime;
+                    power += 100 * Time.deltaTime;
                 }
             }
             if (Input.GetKeyUp(KeyCode.Space))
             {
+                audioPlayed = false;
+                audioSource.clip = launchSound;
+                audioSource.Play();
                 foreach (Rigidbody r in ballList)
                 {
                     r.AddForce(power * Vector3.forward);

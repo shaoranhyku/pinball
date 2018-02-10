@@ -13,6 +13,7 @@ public class BouncerScript : MonoBehaviour {
     void Start()
     {
         render = GetComponent<Renderer>();
+        texturaOriginal = render.material.GetTexture("_MainTex");
     }
 
     // Update is called once per frame
@@ -25,8 +26,6 @@ public class BouncerScript : MonoBehaviour {
     {
         if (collision.gameObject.CompareTag("Ball"))
         {
-            texturaOriginal = render.material.GetTexture("_MainTex");
-            render.material.SetColor("_Color", Color.black);
             render.material.SetTexture("_MainTex", texturaCambiar);
             GetComponent<AudioSource>().Play();
         }

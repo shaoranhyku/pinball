@@ -14,6 +14,8 @@ public class FlipperScript : MonoBehaviour {
     public float flipperDamper = 150f;
     // Nombre de la entrada
     public string inputName;
+
+    private bool soundPlayed = false;
     
     private HingeJoint hingeJoint;
 
@@ -32,9 +34,15 @@ public class FlipperScript : MonoBehaviour {
 		if(Input.GetAxis(inputName) == 1)
         {
             spring.targetPosition = pressedPosition;
+            if (!soundPlayed)
+            {
+                GetComponent<AudioSource>().Play();
+                soundPlayed = true;
+            }
         }
         else
         {
+            soundPlayed = false;
             spring.targetPosition = restPosition;
         }
 
