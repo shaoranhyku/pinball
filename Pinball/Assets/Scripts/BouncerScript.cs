@@ -8,6 +8,7 @@ public class BouncerScript : MonoBehaviour {
 
     private Renderer render;
     private Texture texturaOriginal;
+    private bool active = true;
 
     // Use this for initialization
     void Start()
@@ -35,13 +36,20 @@ public class BouncerScript : MonoBehaviour {
     {
         if (collision.gameObject.CompareTag("Ball"))
         {
+            if (active)
+            {
+                GameManager.points += 200;
+            }
             StartCoroutine(RestoreColor());
         }
     }
 
     private IEnumerator RestoreColor()
     {
+        active = false;
         yield return new WaitForSeconds(4);
+        active = true;
         render.material.SetTexture("_MainTex", texturaOriginal);
+        yield break;
     }
 }

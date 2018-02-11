@@ -44,6 +44,7 @@ public class PlungerScript : MonoBehaviour {
                 if (!audioPlayed)
                 {
                     audioSource.clip = chargeSound;
+                    audioSource.loop = true;
                     audioSource.Play();
                     audioPlayed = true;
                 }
@@ -55,6 +56,7 @@ public class PlungerScript : MonoBehaviour {
             if (Input.GetKeyUp(KeyCode.Space))
             {
                 audioPlayed = false;
+                audioSource.loop = false;
                 audioSource.clip = launchSound;
                 audioSource.Play();
                 foreach (Rigidbody r in ballList)

@@ -14,6 +14,7 @@ public class TurboScript : MonoBehaviour {
         {
             collision.gameObject.GetComponent<Rigidbody>().AddForce(Vector3.forward * force);
             GetComponent<AudioSource>().Play();
+            GameManager.points += 200;
         }
 
     }

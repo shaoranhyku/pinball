@@ -240,12 +240,20 @@
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Procedural Mesh\ExtrudeRandomEdges.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Runtime Editing\RuntimeEdit.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Vertex Colors\HighlightNearestFace.cs" />
+    <Compile Include="Assets\Scripts\BonusScript.cs" />
     <Compile Include="Assets\Scripts\BouncerScript.cs" />
+    <Compile Include="Assets\Scripts\DeathScript.cs" />
+    <Compile Include="Assets\Scripts\EnterScript.cs" />
+    <Compile Include="Assets\Scripts\EventSystem.cs" />
     <Compile Include="Assets\Scripts\FlipperScript.cs" />
+    <Compile Include="Assets\Scripts\FoodGeneratorScript.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\PickUpScript.cs" />
     <Compile Include="Assets\Scripts\PlungerScript.cs" />
     <Compile Include="Assets\Scripts\TurboScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Icons\Materials\UnlitTextureShadows.shader" />
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
     <None Include="Assets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
     <None Include="Assets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
