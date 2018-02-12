@@ -1,20 +1,22 @@
-﻿using System.Collections;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: BonusSCript.cs
+/////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class FoodGeneratorScript : MonoBehaviour {
 
+    // GameObject que instanciará
     public GameObject[] foods = new GameObject[6];
 
     // Use this for initialization
     void Start () {
         StartCoroutine(GenerateFood());
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
     private IEnumerator GenerateFood()
     {

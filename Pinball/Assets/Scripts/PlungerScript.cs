@@ -1,20 +1,34 @@
-﻿using System.Collections;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: PlungerScript.cs
+/////////////////////////////////
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class PlungerScript : MonoBehaviour {
 
+    // Fuerza del plunger
     public float maxPower = 100f;
+    // Slider que mostrará la potencia actual
     public Slider powerSlider;
+    // Audio que sonará mientras se acumula potencia
     public AudioClip chargeSound;
+    // Audio que sonará al lanzarse la bola
     public AudioClip launchSound;
 
+    // Potencia con la que se lanzará la bola
     private float power;
+    // Bolas que colisionan
     private List<Rigidbody> ballList;
+    // Indica si hay una bola en el plunger
     private bool ballReady;
+    // AudioSource del GameObject
     private AudioSource audioSource;
-    private bool audioPlayed = false;
+    // Indica si el audio ha comenzado a sonar
+    private bool audioPlayed;
 
 	// Use this for initialization
 	void Start () {

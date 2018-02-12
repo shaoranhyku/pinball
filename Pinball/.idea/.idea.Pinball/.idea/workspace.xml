@@ -14,34 +14,171 @@
       <file leaf-file-name="EndingInterface.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding>
-                <marker date="1518425912141" expanded="true" signature="6:149" ph="..." />
-                <marker date="1518425912141" expanded="true" signature="195:590" ph="{...}" />
-                <marker date="1518425912141" expanded="true" signature="255:341" ph="{...}" />
-                <marker date="1518425912141" expanded="true" signature="366:519" ph="{...}" />
-                <marker date="1518425912141" expanded="true" signature="543:583" ph="{...}" />
+                <marker date="1518458475471" expanded="true" signature="0:184" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458475471" expanded="true" signature="192:275" ph="..." />
+                <marker date="1518458475471" expanded="true" signature="321:753" ph="{...}" />
+                <marker date="1518458475471" expanded="true" signature="418:504" ph="{...}" />
+                <marker date="1518458475471" expanded="true" signature="529:682" ph="{...}" />
+                <marker date="1518458475471" expanded="true" signature="706:746" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeathScript.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathScript.cs">
+      <file leaf-file-name="EnterScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnterScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+            <state relative-caret-position="221">
+              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
-                <marker date="1518425922296" expanded="true" signature="6:127" ph="..." />
-                <marker date="1518425922296" expanded="true" signature="170:1314" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="291:367" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="415:558" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="470:543" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="607:1311" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="795:1226" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="841:935" ph="{...}" />
-                <marker date="1518425922296" expanded="true" signature="1239:1305" ph="{...}" />
+                <marker date="1518458536031" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458536031" expanded="true" signature="242:729" ph="{...}" />
+                <marker date="1518458536031" expanded="true" signature="419:495" ph="{...}" />
+                <marker date="1518458536031" expanded="true" signature="543:727" ph="{...}" />
+                <marker date="1518458536031" expanded="true" signature="598:721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventSystem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <marker date="1518458536318" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458536318" expanded="true" signature="187:221" ph="..." />
+                <marker date="1518458536318" expanded="true" signature="264:561" ph="{...}" />
+                <marker date="1518458536318" expanded="true" signature="443:559" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipperScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <marker date="1518458612213" expanded="true" signature="0:182" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458612213" expanded="true" signature="246:1444" ph="{...}" />
+                <marker date="1518458612213" expanded="true" signature="723:813" ph="{...}" />
+                <marker date="1518458612213" expanded="true" signature="868:1442" ph="{...}" />
+                <marker date="1518458612213" expanded="true" signature="1030:1249" ph="{...}" />
+                <marker date="1518458612213" expanded="true" signature="1123:1239" ph="{...}" />
+                <marker date="1518458612213" expanded="true" signature="1262:1365" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodGeneratorScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FoodGeneratorScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <marker date="1518458612257" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458612257" expanded="false" signature="187:259" ph="..." />
+                <marker date="1518458612257" expanded="true" signature="310:908" ph="{...}" />
+                <marker date="1518458612257" expanded="true" signature="452:499" ph="{...}" />
+                <marker date="1518458612257" expanded="true" signature="539:906" ph="{...}" />
+                <marker date="1518458612257" expanded="true" signature="566:900" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <folding>
+                <marker date="1518458611904" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458611904" expanded="true" signature="212:394" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PickUpScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PickUpScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <marker date="1518458851047" expanded="true" signature="0:181" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458851047" expanded="false" signature="188:260" ph="..." />
+                <marker date="1518458851047" expanded="true" signature="304:797" ph="{...}" />
+                <marker date="1518458851047" expanded="true" signature="354:566" ph="{...}" />
+                <marker date="1518458851047" expanded="true" signature="409:560" ph="{...}" />
+                <marker date="1518458851047" expanded="true" signature="606:795" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlungerScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1666">
+              <caret line="98" column="10" lean-forward="false" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+              <folding>
+                <marker date="1518458851017" expanded="true" signature="0:182" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458851017" expanded="true" signature="189:257" ph="..." />
+                <marker date="1518458851017" expanded="true" signature="302:2889" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1013:1185" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1240:2461" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1264:1336" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1336:1413" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1482:2370" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1567:1979" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1615:1828" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="1878:1965" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2026:2360" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2253:2346" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2383:2458" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2510:2661" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2565:2655" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2709:2887" ph="{...}" />
+                <marker date="1518458851017" expanded="true" signature="2764:2881" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartInterface.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartInterface.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <marker date="1518458850714" expanded="true" signature="0:183" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458850714" expanded="true" signature="190:237" ph="..." />
+                <marker date="1518458850714" expanded="true" signature="283:486" ph="{...}" />
+                <marker date="1518458850714" expanded="true" signature="332:418" ph="{...}" />
+                <marker date="1518458850714" expanded="true" signature="441:484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TurboScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TurboScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <marker date="1518458851087" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+                <marker date="1518458851087" expanded="true" signature="242:639" ph="{...}" />
+                <marker date="1518458851087" expanded="true" signature="370:637" ph="{...}" />
+                <marker date="1518458851087" expanded="true" signature="429:630" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,20 +188,37 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../StoneGame/StoneGame/Assets/Scripts/InterfaceAwake.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../StoneGame/StoneGame/Assets/Scripts/InterfaceFinal.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnterScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeathScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUpScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FoodGeneratorScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BonusScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BouncerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartInterface.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeathScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TurboScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartInterface.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BonusScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BouncerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeathScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnterScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoodGeneratorScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickUpScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TurboScript.cs" />
       </list>
     </option>
   </component>
@@ -131,6 +285,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,12 +319,13 @@
       <workItem from="1518422867022" duration="132000" />
       <workItem from="1518423577768" duration="27000" />
       <workItem from="1518424914721" duration="135000" />
-      <workItem from="1518425277960" duration="646000" />
+      <workItem from="1518425277960" duration="868000" />
+      <workItem from="1518458054703" duration="799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1004000" />
+    <option name="totallyTimeSpent" value="2025000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,7 +338,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -220,14 +375,49 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1518458475471" expanded="true" signature="0:184" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458475471" expanded="true" signature="192:275" ph="..." />
+            <marker date="1518458475471" expanded="true" signature="321:753" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="418:504" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="529:682" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="706:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding>
+            <marker date="1518458450337" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458450337" expanded="true" signature="188:261" ph="..." />
+            <marker date="1518458450337" expanded="true" signature="304:1604" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="581:657" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="705:848" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="760:833" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="897:1601" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1085:1516" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1131:1225" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1529:1595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1518425912141" expanded="true" signature="6:149" ph="..." />
-            <marker date="1518425912141" expanded="true" signature="195:590" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="255:341" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="366:519" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="543:583" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="0:184" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458475471" expanded="true" signature="192:275" ph="..." />
+            <marker date="1518458475471" expanded="true" signature="321:753" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="418:504" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="529:682" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="706:746" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -253,27 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartInterface.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../StoneGame/StoneGame/Assets/Scripts/InterfaceFinal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -288,34 +457,210 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BonusScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding>
-            <marker date="1518425912141" expanded="true" signature="6:149" ph="..." />
-            <marker date="1518425912141" expanded="true" signature="195:590" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="255:341" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="366:519" ph="{...}" />
-            <marker date="1518425912141" expanded="true" signature="543:583" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458329981" expanded="true" signature="188:226" ph="..." />
+            <marker date="1518458329981" expanded="true" signature="269:1847" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="654:728" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="784:1018" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="1053:1294" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="1327:1845" ph="{...}" />
+            <marker date="1518458329981" expanded="true" signature="1355:1676" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DeathScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="42" lean-forward="false" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
-            <marker date="1518425922296" expanded="true" signature="6:127" ph="..." />
-            <marker date="1518425922296" expanded="true" signature="170:1314" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="291:367" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="415:558" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="470:543" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="607:1311" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="795:1226" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="841:935" ph="{...}" />
-            <marker date="1518425922296" expanded="true" signature="1239:1305" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458450337" expanded="true" signature="188:261" ph="..." />
+            <marker date="1518458450337" expanded="true" signature="304:1604" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="581:657" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="705:848" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="760:833" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="897:1601" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1085:1516" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1131:1225" ph="{...}" />
+            <marker date="1518458450337" expanded="true" signature="1529:1595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BouncerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <marker date="1518458387216" expanded="true" signature="0:182" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458387216" expanded="false" signature="189:261" ph="..." />
+            <marker date="1518458387216" expanded="true" signature="306:1563" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="675:796" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="852:1053" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="911:1047" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="1108:1332" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="1167:1326" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="1201:1272" ph="{...}" />
+            <marker date="1518458387216" expanded="true" signature="1372:1561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndingInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <marker date="1518458475471" expanded="true" signature="0:184" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458475471" expanded="true" signature="192:275" ph="..." />
+            <marker date="1518458475471" expanded="true" signature="321:753" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="418:504" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="529:682" ph="{...}" />
+            <marker date="1518458475471" expanded="true" signature="706:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnterScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <marker date="1518458536031" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458536031" expanded="true" signature="242:729" ph="{...}" />
+            <marker date="1518458536031" expanded="true" signature="419:495" ph="{...}" />
+            <marker date="1518458536031" expanded="true" signature="543:727" ph="{...}" />
+            <marker date="1518458536031" expanded="true" signature="598:721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <marker date="1518458536318" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458536318" expanded="true" signature="187:221" ph="..." />
+            <marker date="1518458536318" expanded="true" signature="264:561" ph="{...}" />
+            <marker date="1518458536318" expanded="true" signature="443:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlipperScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <marker date="1518458612213" expanded="true" signature="0:182" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458612213" expanded="true" signature="246:1444" ph="{...}" />
+            <marker date="1518458612213" expanded="true" signature="723:813" ph="{...}" />
+            <marker date="1518458612213" expanded="true" signature="868:1442" ph="{...}" />
+            <marker date="1518458612213" expanded="true" signature="1030:1249" ph="{...}" />
+            <marker date="1518458612213" expanded="true" signature="1123:1239" ph="{...}" />
+            <marker date="1518458612213" expanded="true" signature="1262:1365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FoodGeneratorScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <marker date="1518458612257" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458612257" expanded="false" signature="187:259" ph="..." />
+            <marker date="1518458612257" expanded="true" signature="310:908" ph="{...}" />
+            <marker date="1518458612257" expanded="true" signature="452:499" ph="{...}" />
+            <marker date="1518458612257" expanded="true" signature="539:906" ph="{...}" />
+            <marker date="1518458612257" expanded="true" signature="566:900" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <marker date="1518458611904" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458611904" expanded="true" signature="212:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PickUpScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <marker date="1518458851047" expanded="true" signature="0:181" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458851047" expanded="false" signature="188:260" ph="..." />
+            <marker date="1518458851047" expanded="true" signature="304:797" ph="{...}" />
+            <marker date="1518458851047" expanded="true" signature="354:566" ph="{...}" />
+            <marker date="1518458851047" expanded="true" signature="409:560" ph="{...}" />
+            <marker date="1518458851047" expanded="true" signature="606:795" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlungerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="10" lean-forward="false" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+          <folding>
+            <marker date="1518458851017" expanded="true" signature="0:182" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458851017" expanded="true" signature="189:257" ph="..." />
+            <marker date="1518458851017" expanded="true" signature="302:2889" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1013:1185" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1240:2461" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1264:1336" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1336:1413" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1482:2370" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1567:1979" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1615:1828" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="1878:1965" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2026:2360" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2253:2346" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2383:2458" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2510:2661" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2565:2655" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2709:2887" ph="{...}" />
+            <marker date="1518458851017" expanded="true" signature="2764:2881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartInterface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1518458850714" expanded="true" signature="0:183" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458850714" expanded="true" signature="190:237" ph="..." />
+            <marker date="1518458850714" expanded="true" signature="283:486" ph="{...}" />
+            <marker date="1518458850714" expanded="true" signature="332:418" ph="{...}" />
+            <marker date="1518458850714" expanded="true" signature="441:484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TurboScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <marker date="1518458851087" expanded="true" signature="0:180" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518458851087" expanded="true" signature="242:639" ph="{...}" />
+            <marker date="1518458851087" expanded="true" signature="370:637" ph="{...}" />
+            <marker date="1518458851087" expanded="true" signature="429:630" ph="{...}" />
           </folding>
         </state>
       </provider>

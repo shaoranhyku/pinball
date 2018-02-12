@@ -1,14 +1,23 @@
-﻿using System;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: BonusSCript.cs
+/////////////////////////////////
+
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class BonusScript : MonoBehaviour {
 
+    // GameObject que representa el eventSystem, usado para bajar el volumen de la música
     public GameObject eventSystem;
+    // GameObjects que instanciará el script
     public GameObject[] foods = new GameObject[6];
 
+    // Contador de GameObjects instanciados
     private int c;
+    // Posicion inicial de la bola
     private Vector3 initialPosition;
 
     private void Start()

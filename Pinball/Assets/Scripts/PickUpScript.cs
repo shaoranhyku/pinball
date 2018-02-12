@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: PickupScript.cs
+/////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -20,6 +26,5 @@ public class PickUpScript : MonoBehaviour {
         GetComponent<MeshRenderer>().enabled = false;
         yield return new WaitForSeconds(1);
         Destroy(gameObject);
-        yield break;
     }
 }

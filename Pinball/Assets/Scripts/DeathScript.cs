@@ -1,14 +1,22 @@
-﻿using System;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: DeathScript.cs
+/////////////////////////////////
+
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class DeathScript : MonoBehaviour {
 
+    // Muro que se moverá al perder una vida
     public GameObject wall;
+    // GameObject que representa al sistema, para bajar el volumen del sonido
     public GameObject system;
 
+    // Posición inicial del muro
     private Vector3 initPosition;
 
     private void Start()

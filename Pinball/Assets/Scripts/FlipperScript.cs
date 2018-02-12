@@ -1,5 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: FlipperScript.cs
+/////////////////////////////////
 using UnityEngine;
 
 public class FlipperScript : MonoBehaviour {

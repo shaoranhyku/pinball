@@ -1,6 +1,11 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: EndingInterface.cs
+/////////////////////////////////
+
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -8,6 +13,7 @@ using UnityEngine.UI;
 public class EndingInterface : MonoBehaviour
 {
 
+    // Texto que mostrará los puntos
     public Text pointText;
     
     private void Start()

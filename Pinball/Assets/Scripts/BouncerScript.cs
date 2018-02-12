@@ -1,13 +1,23 @@
-﻿using System.Collections;
+﻿//////////////////////////////////
+// Práctica: Pinball
+// Alumno/a: Francisco Javier Florín Cárdenas
+// Curso: 2017/18
+// Fichero: BouncerSCript.cs
+/////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class BouncerScript : MonoBehaviour {
 
+    // Textura el adquirirá el bouncer en la colisión
     public Texture texturaCambiar;
-
+    
+    // Renderer del GameObject
     private Renderer render;
+    // Textura original del GameObject
     private Texture texturaOriginal;
+    // Indica si está activo la obtención de puntos
     private bool active = true;
 
     // Use this for initialization
@@ -15,12 +25,6 @@ public class BouncerScript : MonoBehaviour {
     {
         render = GetComponent<Renderer>();
         texturaOriginal = render.material.GetTexture("_MainTex");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 
     private void OnCollisionEnter(Collision collision)
