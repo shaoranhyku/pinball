@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DeathScript : MonoBehaviour {
 
@@ -40,7 +41,10 @@ public class DeathScript : MonoBehaviour {
             other.GetComponent<AudioSource>().Play();
             GameManager.lifes--;
         }
-        yield break;
+        else
+        {
+            SceneManager.LoadScene("Ending");
+        }
     }
 
 }
