@@ -46,6 +46,7 @@ public class DeathScript : MonoBehaviour {
             }
             wall.GetComponent<Transform>().position = new Vector3(initPosition.x, 0.5f, initPosition.z);
             other.GetComponent<Transform>().position = new Vector3(12.02f, 0.4f, -6.5f);
+            other.GetComponent<Rigidbody>().velocity = new Vector3(0,0,0);
             other.GetComponent<AudioSource>().Play();
             GameManager.lifes--;
         }
